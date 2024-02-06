@@ -1,0 +1,28 @@
+.blueInputBox {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(120, 162, 213);
+    color: white;
+    text-align: center;
+    border-radius: 0px;
+    margin: 10px;
+}
+
+.editRow {
+    display: flex;
+    flex-direction: row;
+    align-items: center;
+}
+
+.removeButton {
+    margin: 10px;
+    background-color: orange;
+    color: white;
+    font-weight: 550
+}
+
+#addButton {
+    background-color: rgb(63, 218, 63);
+    color: white;
+    margin: 10px;
+}

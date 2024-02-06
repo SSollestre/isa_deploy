@@ -1,0 +1,10 @@
+.blueDisplayBox {
+    width: 200px;
+    height: 100px;
+    background-color: rgb(120, 162, 213);
+    color: white;
+    text-align: center;
+    line-height: 100px;
+    border-radius: 0px;
+    margin: 10px;
+}
